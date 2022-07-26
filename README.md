@@ -9,6 +9,8 @@ s -> D note
 
 d -> E note
 
-f -> F note 
+f -> F note
 
-try this: asdf (enter)
+...
+
+try this: asda asda dfg dfg ghgfda ghgfda sda sda (enter)
